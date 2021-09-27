@@ -4,7 +4,7 @@ tags_metadata = [
         "description": "User routes",
         "externalDocs": {
             "description": "Items external docs",
-            "url": "https://fastapi.tiangolo.com/",
+            "url": "https://jmspinelliok@gmail.com",
         },
     }
 ]
